@@ -3,7 +3,6 @@ import React from "react";
 const CampSchedule = ({ campSchedule }) => {
 	return (
 		<div>
-			<h2>Camp Schedule</h2>
 			<table>
 				<thead>
 					<tr>
