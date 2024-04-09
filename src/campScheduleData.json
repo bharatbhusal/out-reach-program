@@ -1,0 +1,272 @@
+{
+	"1": {
+		"Camp place": "Seethanagaram",
+		"Mandal": "Seethanagaram",
+		"Venue": "KGNM Trust",
+		"District": "E.G.D",
+		"Sponsor": "Suseela Garu",
+		"Date": "01.04.2024",
+		"Day": "Monday"
+	},
+	"2": {
+		"Camp place": "CH Pothepalli",
+		"Mandal": "Dwaraka Tirumala",
+		"Venue": "Satya Sai Hospital",
+		"District": "W.G.Dt",
+		"Sponsor": "Satya Sai Org",
+		"Date": "02.04.2024",
+		"Day": "Tuesday"
+	},
+	"3": {
+		"Camp place": "Bheemavaram",
+		"Mandal": "Bheemavaram",
+		"Venue": "Kalyanamandapam",
+		"District": "W.G.Dt",
+		"Sponsor": "Satya Sai Org",
+		"Date": "03.04.2024",
+		"Day": "Wednesday"
+	},
+	"4": {
+		"Camp place": "Jaggannapeta",
+		"Mandal": "Mamidikuduru",
+		"Venue": "Satya Sai Mandi",
+		"District": "E.G.DT",
+		"Sponsor": "Satya Sai Org",
+		"Date": "04.04.2024",
+		"Day": "Thursday"
+	},
+	"5": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "05.04.2024",
+		"Day": "Friday"
+	},
+	"6": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "06.04.2024",
+		"Day": "Saturday"
+	},
+	"7": {
+		"Camp place": "Atreyapuram",
+		"Mandal": "Atreyapuram",
+		"Venue": "Satya Sai Mandi",
+		"District": "W.G.Dt",
+		"Sponsor": "Satya Sai Org",
+		"Date": "07.04.2024",
+		"Day": "Sunday"
+	},
+	"8": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "08.04.2024",
+		"Day": "Monday"
+	},
+	"9": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "09.04.2024",
+		"Day": "Tuesday"
+	},
+	"10": {
+		"Camp place": "V/C Mandapeta",
+		"Mandal": "V/C Mandapeta",
+		"Venue": "V/C Mandapeta",
+		"District": "E.G.Dt",
+		"Sponsor": "V/C Mandapeta",
+		"Date": "10.04.2024",
+		"Day": "Wednesday"
+	},
+	"11": {
+		"Camp place": "Tadepalligudem",
+		"Mandal": "Tadepalligudem",
+		"Venue": "Satya Sai Mandi",
+		"District": "W.G.Dt",
+		"Sponsor": "Satya Sai Org",
+		"Date": "11.04.2024",
+		"Day": "Thursday"
+	},
+	"12": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "12.04.2024",
+		"Day": "Friday"
+	},
+	"13": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "13.04.2024",
+		"Day": "Saturday"
+	},
+	"14": {
+		"Camp place": "Rampachodavaram",
+		"Mandal": "Rampachodavaram",
+		"Venue": "RK Mission",
+		"District": "E.G.Dt",
+		"Sponsor": "RK Mission",
+		"Date": "14.04.2024",
+		"Day": "Sunday"
+	},
+	"15": {
+		"Camp place": "Undrajavaram",
+		"Mandal": "Undrajavaram",
+		"Venue": "Satya Sai Mandi",
+		"District": "W.G.Dt",
+		"Sponsor": "Satya Sai Org",
+		"Date": "15.04.2024",
+		"Day": "Monday"
+	},
+	"16": {
+		"Camp place": "V/C Razole",
+		"Mandal": "V/C Razole",
+		"Venue": "V/C Razole",
+		"District": "E.G.Dt",
+		"Sponsor": "V/C Razole",
+		"Date": "16.04.2024",
+		"Day": "Tuesday"
+	},
+	"17": {
+		"Camp place": "Vc Draksharamam",
+		"Mandal": "Vc Draksharamam",
+		"Venue": "Vc Draksharamam",
+		"District": "E.G.Dt",
+		"Sponsor": "Optom Bhanu Garu",
+		"Date": "17.04.2024",
+		"Day": "Wednesday"
+	},
+	"18": {
+		"Camp place": "Pedapudi",
+		"Mandal": "Pedapudi",
+		"Venue": "Satya Sai Mandi",
+		"District": "E.G.Dt",
+		"Sponsor": "Satya Sai Org",
+		"Date": "18.04.2024",
+		"Day": "Thursday"
+	},
+	"19": {
+		"Camp place": "Vc Ramachandrapuram",
+		"Mandal": "Vc Ramachandrapuram",
+		"Venue": "Vc Ramachandrapuram",
+		"District": "E.G.Dt",
+		"Sponsor": "Vc Ramachandrapu",
+		"Date": "19.04.2024",
+		"Day": "Friday"
+	},
+	"20": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "20.04.2024",
+		"Day": "Saturday"
+	},
+	"21": {
+		"Camp place": "Eluru",
+		"Mandal": "Eluru",
+		"Venue": "Rama Koti Temple",
+		"District": "W.G.Dt",
+		"Sponsor": "Manepalli Rama Rao Garu",
+		"Date": "21.04.2024",
+		"Day": "Sunday"
+	},
+	"22": {
+		"Camp place": "V/C Malikipuram",
+		"Mandal": "V/C Malikipuram",
+		"Venue": "V/C Malikipuram",
+		"District": "E.G.Dt",
+		"Sponsor": "V/C Malikipuram",
+		"Date": "22.04.2024",
+		"Day": "Monday"
+	},
+	"23": {
+		"Camp place": "Ravulapalem",
+		"Mandal": "Ravulapalem",
+		"Venue": "Satya Sai Mandi",
+		"District": "Unclear",
+		"Sponsor": "Satya Sai Org",
+		"Date": "23.04.2024",
+		"Day": "Tuesday"
+	},
+	"24": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "24.04.2024",
+		"Day": "Wednesday"
+	},
+	"25": {
+		"Camp place": "Darsiparru",
+		"Mandal": "Tadepalligudem",
+		"Venue": "Satya Sai Mandi",
+		"District": "W.G.Dt",
+		"Sponsor": "Satya Sai Org",
+		"Date": "25.04.2024",
+		"Day": "Thursday"
+	},
+	"26": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "26.04.2024",
+		"Day": "Friday"
+	},
+	"27": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "27.04.2024",
+		"Day": "Saturday"
+	},
+	"28": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "28.04.2024",
+		"Day": "Sunday"
+	},
+	"29": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "29.04.2024",
+		"Day": "Monday"
+	},
+	"30": {
+		"Camp place": "",
+		"Mandal": "",
+		"Venue": "",
+		"District": "",
+		"Sponsor": "",
+		"Date": "30.04.2024",
+		"Day": "Tuesday"
+	}
+}
